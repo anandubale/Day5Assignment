@@ -1,0 +1,16 @@
+C:\Users\anand\Desktop\Bridgelabz\Assigment5\Assignment5Probems\Assignment5Probems\obj\Debug\net5.0\Assignment5Probems.csproj.AssemblyReference.cache
+C:\Users\anand\Desktop\Bridgelabz\Assigment5\Assignment5Probems\Assignment5Probems\obj\Debug\net5.0\Assignment5Probems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anand\Desktop\Bridgelabz\Assigment5\Assignment5Probems\Assignment5Probems\obj\Debug\net5.0\Assignment5Probems.AssemblyInfoInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\Assigment5\Assignment5Probems\Assignment5Probems\obj\Debug\net5.0\Assignment5Probems.AssemblyInfo.cs
+C:\Users\anand\Desktop\Bridgelabz\Assigment5\Assignment5Probems\Assignment5Probems\obj\Debug\net5.0\Assignment5Probems.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\Assigment5\Assignment5Probems\Assignment5Probems\bin\Debug\net5.0\Assignment5Probems.exe
+C:\Users\anand\Desktop\Bridgelabz\Assigment5\Assignment5Probems\Assignment5Probems\bin\Debug\net5.0\Assignment5Probems.deps.json
+C:\Users\anand\Desktop\Bridgelabz\Assigment5\Assignment5Probems\Assignment5Probems\bin\Debug\net5.0\Assignment5Probems.runtimeconfig.json
+C:\Users\anand\Desktop\Bridgelabz\Assigment5\Assignment5Probems\Assignment5Probems\bin\Debug\net5.0\Assignment5Probems.runtimeconfig.dev.json
+C:\Users\anand\Desktop\Bridgelabz\Assigment5\Assignment5Probems\Assignment5Probems\bin\Debug\net5.0\Assignment5Probems.dll
+C:\Users\anand\Desktop\Bridgelabz\Assigment5\Assignment5Probems\Assignment5Probems\bin\Debug\net5.0\ref\Assignment5Probems.dll
+C:\Users\anand\Desktop\Bridgelabz\Assigment5\Assignment5Probems\Assignment5Probems\bin\Debug\net5.0\Assignment5Probems.pdb
+C:\Users\anand\Desktop\Bridgelabz\Assigment5\Assignment5Probems\Assignment5Probems\obj\Debug\net5.0\Assignment5Probems.dll
+C:\Users\anand\Desktop\Bridgelabz\Assigment5\Assignment5Probems\Assignment5Probems\obj\Debug\net5.0\ref\Assignment5Probems.dll
+C:\Users\anand\Desktop\Bridgelabz\Assigment5\Assignment5Probems\Assignment5Probems\obj\Debug\net5.0\Assignment5Probems.pdb
+C:\Users\anand\Desktop\Bridgelabz\Assigment5\Assignment5Probems\Assignment5Probems\obj\Debug\net5.0\Assignment5Probems.genruntimeconfig.cache
